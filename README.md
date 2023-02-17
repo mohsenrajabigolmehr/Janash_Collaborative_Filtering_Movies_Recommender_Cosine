@@ -1,0 +1,2 @@
+# Janash_Collaborative_Filtering_Movies_Recommender_Cosine
+Janash Collaborative Filtering Movies Recommender  By Cosine, NearestNeighbors jaccard
